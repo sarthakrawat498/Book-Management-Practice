@@ -1,0 +1,93 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Psychology of Money 1",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "description": "An excellent exploration of how personal biases, ego, and unique worldviews heavily influence our everyday financial decisions.",
+      "read": false
+    },
+    {
+      "id": "2",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Self Help",
+      "description": "Rules for focused success in a highly distracted world.",
+      "read": true
+    },
+    {
+      "id": "3",
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": "Sci-Fi",
+      "description": "A lone astronaut must find a clever scientific way to save earth from an extinction-level event while fighting complete memory loss.",
+      "read": false
+    },
+    {
+      "id": "4",
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": "Biography",
+      "description": "An unforgettable memoir about a young girl who leaves her survivalist family in rural Idaho to pursue a formal university education.",
+      "read": true
+    },
+    {
+      "id": "5",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "description": "A thrilling narrative detailing the complex creation, evolution, and ultimate dominance of human beings on planet earth.",
+      "read": false
+    },
+    {
+      "id": "6",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Thriller",
+      "description": "A shocking psychological thriller about a woman's sudden act of extreme violence against her husband, and the therapist obsessed with her silence.",
+      "read": false
+    },
+    {
+      "id": "7",
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "genre": "Self Help",
+      "description": "A raw account of mastering your mind to defy all odds.",
+      "read": true
+    },
+    {
+      "id": "8",
+      "title": "Bad Blood",
+      "author": "John Carreyrou",
+      "genre": "True Crime",
+      "description": "The full inside story of the breathtaking rise and shocking multi-billion-dollar medical fraud collapse of Silicon Valley startup Theranos.",
+      "read": false
+    },
+    {
+      "id": "9",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "description": "A beautiful fable about a young Andalusian shepherd boy who journeys across the desert to find his true personal legend.",
+      "read": true
+    },
+    {
+      "id": "10",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "description": "An epic interstellar masterpiece detailing the dangerous political betrayals and mystical battles over a harsh desert planet's precious resource.",
+      "read": false
+    },
+    {
+      "title": "The Brave: Param Vir Chakra Stories",
+      "author": "Rachna Bisht",
+      "genre": "Non-Fiction",
+      "description": "21 riveting stories from the battlefield about how India's highest military honour waswon. The Brave takes you into the hearts and minds of India's bravest soldiers, all of whom won the Param Vir Chakra, India's greatest military honour.",
+      "read": false,
+      "id": "RKoek8-pqxQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

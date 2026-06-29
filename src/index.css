@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.book-card {
+  transition: 0.25s;
+}
+.book-card:hover {
+  transform: translateY(-6px);
+}
